@@ -20,8 +20,7 @@
                 }
                 else
                 {         
-                    return userNumber;
-                    break;
+                    return userNumber;                  
                 }          
             }
         }
